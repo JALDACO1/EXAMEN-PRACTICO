@@ -1,0 +1,22 @@
+.botonVerde {
+    background-color: green;
+    border-radius: 5px;
+    height: 50px;
+    width: 80px;
+    margin:50px;
+    padding: 20px;
+
+
+}
+.botonRojo{
+    background-color: red;
+    border-radius: 5px;
+    height: 50px;
+    width: 80px;
+    margin:50px;
+    padding: 20px;
+
+}
+
+
+  
